@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.container{
+    text-align: center;
+    color: black;
+    width: 960px;
+    inline-size: 960px;
+    margin: 0 auto;
+    margin-block-start: 250px;
+    margin-block-end: 250px;
+}
+.float-l{ 
+    float: left;
+    text-align: justify;
+}
+.float-r{ 
+    float: right;
+    text-align: justify;
+}
+.col{
+    width: 40%;
+    padding: 5px;
+}
+.text-justify{
+    text-align: justify;
+}
+a{
+    color: black;
+}
+.box{
+   text-align: left;
+   margin-left: 60%;
+}
+.box4{
+    text-align: left;
+}
+.change-consent:hover{
+    color: red;
+}
+
+
+
+
+
+
